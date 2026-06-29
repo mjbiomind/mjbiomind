@@ -25,7 +25,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 ## 📊 Core Research Portfolio
 
-### 🌌 [NHANES Causal PTSD Pipeline](https://github.com)
+### 🌌 [NHANES Causal PTSD Pipeline](https://github.com/mjbiomind/NHANES-Causal-PTSD)
 *An unconfounded, inverse-probability weighted causal analysis mapping the intersection of environmental stress matrices and chronic inflammatory biomarkers.*
 - **Tech Stack:** Python, `statsmodels`, `seaborn`, `pandas`
 - **Impact:** Formulated a clean Weighted Least Squares marginal structural model verifying the distinct, non-linear biological multiplier effect of stress within minoritized Hispanic cohorts.
