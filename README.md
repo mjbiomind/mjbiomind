@@ -40,12 +40,4 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 ---
 
-## 📈 GitHub Matrix & Engagement
-<p align="left">
-  <img src="https://vercel.app" alt="Mary's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
-
----
-
-> *"Using data to understand people, using science to reduce suffering, and using knowledge to build a life of lasting impact."*
+> *"Using data to understand people, using science to reduce suffering, and using knowledge to build a life of lasting impact." -MJBIOMIND*
