@@ -18,11 +18,11 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 ## 🛠️ Technical Ecosystem
 
 <p align="left">
-  <img src="https://shields.io" alt="R Programming" />&nbsp;
-  <img src="https://shields.io" alt="Python Data Science" />&nbsp;
-  <img src="https://shields.io" alt="SQL Databases" />&nbsp;
-  <img src="https://shields.io" alt="MATLAB Neuroimaging" />&nbsp;
-  <img src="https://shields.io" alt="Tableau Analytics" />
+![R](https://shields.io)
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![MATLAB](https://shields.io)
+![Tableau](https://shields.io)
 </p>
 
 - **Core Analytics & Languages:** R (`tidyverse`, `brms`, `ggplot2`), Python (`NumPy`, `Pandas`, `scikit-learn`), SQL, MATLAB
