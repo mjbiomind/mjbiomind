@@ -17,14 +17,6 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 ## 🛠️ Technical Ecosystem
 
-<p align="left">
-![R](https://shields.io)
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![MATLAB](https://shields.io)
-![Tableau](https://shields.io)
-</p>
-
 - **Core Analytics & Languages:** R (`tidyverse`, `brms`, `ggplot2`), Python (`NumPy`, `Pandas`, `scikit-learn`), SQL, MATLAB
 - **Clinical Informatics Infrastructure:** REDCap (Electronic Data Capture), Epic / APeX, OnCore (CTMS), HIPAA & IRB Frameworks
 - **Statistical Methodologies:** Causal Inference, Propensity Score Matching, Bayesian Regression, Structural Neuroimaging Preprocessing (SPM12/CAT12, Voxel-Based Morphometry concepts)
