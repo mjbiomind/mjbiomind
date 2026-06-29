@@ -1,4 +1,4 @@
-<img src="YOUR_BANNER_IMAGE_URL" alt="Mary Jacobs Banner" width="100%" />
+<img src="YOUR_BANNER_IMAGE_URL.png" alt="Mary Jacobs Banner" width="100%" />
 
 # Mary Jacobs
 ### Biostatistics & Health Data Science | Computational Psychiatry & AI
