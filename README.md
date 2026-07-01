@@ -15,7 +15,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🛠️ Ecosystem
 
 - **Core Analytics & Languages:** R (`tidyverse`, `brms`, `ggplot2`), Python (`NumPy`, `Pandas`, `scikit-learn`), SQL, MATLAB
 - **Clinical Informatics Infrastructure:** REDCap (Electronic Data Capture), Epic / APeX, OnCore (CTMS), HIPAA & IRB Frameworks
@@ -34,7 +34,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 - Evaluated associations between psychosocial stressors and inflammatory biomarkers while accounting for demographic and clinical confounders.
 - Produced reproducible statistical analyses using nationally representative NHANES survey data.
 - **Stack**  
-Python • pandas • NumPy • statsmodels • Matplotlib
+`Python` • `pandas` • `NumPy` • `statsmodels` • `Matplotlib`
 
 ### [2. Clinical NLP Extraction Pipeline](https://github.com/mjbiomind/clinical-nlp-ptsd)
 **Objective:** Transform unstructured clinical notes into structured PTSD symptom data suitable for statistical analysis and machine learning.
@@ -56,7 +56,7 @@ Python • pandas • NumPy • statsmodels • Matplotlib
 - Compared survival trajectories across demographic and social risk groups to identify differences in clinical progression.
 
 **Stack**  
-Python • lifelines • pandas • Matplotlib
+`Python` • `lifelines` • `pandas` • `Matplotlib`
 
 
 ### [4. Synthea-to-OMOP CDM ETL Data Pipeline](https://github.com/mjbiomind/Synthea-OMOP-ETL)
@@ -69,6 +69,6 @@ Python • lifelines • pandas • Matplotlib
 - Created reproducible data transformation pipelines that improve interoperability across observational health research databases.
   
 **Stack**  
-Python • pandas • Relational Databases • OMOP CDM • SNOMED CT
+`Python` • `pandas` • `Relational Databases` • `OMOP CDM` • `SNOMED CT`
 
 > *"Using data to understand people, using science to increase happiness, and using knowledge to build a life of lasting impact." -MJBIOMIND*
