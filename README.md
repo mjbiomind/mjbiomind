@@ -69,4 +69,5 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
   
 **Stack**   `Python` • `pandas` • `Relational Databases` • `OMOP CDM` • `SNOMED CT`
 
+
 > *"Using data to understand people, using science to increase happiness, and using knowledge to build a life of lasting impact." -MJBIOMIND*
