@@ -33,7 +33,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 - Designed causal inference workflows using inverse probability weighting (IPW) and weighted regression models.
 - Evaluated associations between psychosocial stressors and inflammatory biomarkers while accounting for demographic and clinical confounders.
 - Produced reproducible statistical analyses using nationally representative NHANES survey data.
-**Stack**  
+- **Stack**  
 Python • pandas • NumPy • statsmodels • Matplotlib
 
 ### [2. Clinical NLP Extraction Pipeline](https://github.com/mjbiomind/clinical-nlp-ptsd)
@@ -42,6 +42,7 @@ Python • pandas • NumPy • statsmodels • Matplotlib
 - Built a rule-based Natural Language Processing (NLP) pipeline to identify PTSD symptom documentation from narrative clinical records.
 - Applied medSpaCy and ConText algorithms to distinguish confirmed symptoms from negated, historical, or hypothetical clinical statements.
 - Generated research-ready datasets for downstream predictive modeling and clinical outcome analyses.
+
 **Stack**  
 Python • medSpaCy • spaCy • pandas • Matplotlib
 
