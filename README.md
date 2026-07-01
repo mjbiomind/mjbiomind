@@ -15,7 +15,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 ---
 
-## 🛠️ Ecosystem
+## 🛠️ Tech Ecosystem
 
 - **Core Analytics & Languages:** R (`tidyverse`, `brms`, `ggplot2`), Python (`NumPy`, `Pandas`, `scikit-learn`), SQL, MATLAB
 - **Clinical Informatics Infrastructure:** REDCap (Electronic Data Capture), Epic / APeX, OnCore (CTMS), HIPAA & IRB Frameworks
@@ -45,7 +45,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 **Tech stack**  `Python` • `pandas` • `NumPy` • `statsmodels` • `Matplotlib`
 
---
+
 
 ### 🩺[2. Clinical NLP Extraction Pipeline](https://github.com/mjbiomind/clinical-nlp-ptsd)
 **Objective:** Transform unstructured clinical notes into structured PTSD symptom data suitable for statistical analysis and machine learning.
@@ -64,7 +64,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 **Tech stack**   `Python` • `medSpaCy` • `spaCy` • `pandas` • `Matplotlib`
 
---
+
 
 ### 🩺[3. Longitudinal EHR Survival Analysis](https://github.com/mjbiomind/EHR-Survival-PTSD)
 
@@ -84,7 +84,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 **Tech stack**   `Python` • `lifelines` • `pandas` • `Matplotlib`
 
---
+
 
 ### 🩺[4. Enterprise OMOP Common Data Model (CDM) ETL Pipeline](https://github.com/mjbiomind/Synthea-OMOP-ETL)
 
@@ -105,5 +105,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 - Created a reproducible workflow that supports downstream statistical analysis, cohort discovery, and observational health research.
 
 **Tech stack**   `Python` • `pandas` • `SQLite` • `SQL` • `OMOP CDM v6.0` • `SNOMED CT`• `ICD-10-CM`
+
+---
 
 > *"Using data to understand people, using science to increase happiness, and using knowledge to build a life of lasting impact." -MJBIOMIND*
