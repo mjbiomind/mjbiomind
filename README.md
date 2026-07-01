@@ -86,7 +86,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 
 
 
-### 🩺[4. Enterprise OMOP Common Data Model (CDM) ETL Pipeline](https://github.com/mjbiomind/Synthea-OMOP-ETL)
+### 🩺[4. Enterprise OMOP Common Data Model (CDM) ETL Pipeline](https://github.com/mjbiomind/OMOP-Enterprise-Pipeline)
 
 **Objective:** Develop a scalable data engineering pipeline to transform synthetic electronic health record (EHR) data into the OHDSI OMOP Common Data Model (CDM) Version 6.0 for reproducible clinical research and observational health studies.
 
