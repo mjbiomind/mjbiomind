@@ -28,25 +28,41 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 ## 📊 Core Research Portfolio
 
 ### [1. NHANES Causal PTSD Pipeline](https://github.com/mjbiomind/NHANES-Causal-PTSD)
-*An unconfounded, inverse-probability weighted causal analysis mapping the intersection of environmental stress matrices and chronic inflammatory biomarkers.*
-- **Tech Stack:** Python, `statsmodels`, `seaborn`, `pandas`
-- **Impact:** Formulated a clean Weighted Least Squares marginal structural model verifying the distinct, non-linear biological multiplier effect of stress within minoritized Hispanic cohorts.
+**Objective:** Examine the relationship between chronic stress exposure, inflammation, and PTSD-related outcomes using nationally representative health data.
+**Research Methods**
+- Designed causal inference workflows using inverse probability weighting (IPW) and weighted regression models.
+- Evaluated associations between psychosocial stressors and inflammatory biomarkers while accounting for demographic and clinical confounders.
+- Produced reproducible statistical analyses using nationally representative NHANES survey data.
+**Stack**  
+Python • pandas • NumPy • statsmodels • Matplotlib
 
 ### [2. Clinical NLP Extraction Pipeline](https://github.com/mjbiomind/clinical-nlp-ptsd)
-An automated Information Extraction (IE) framework engineered to extract unstructured phenotypic indicators of Post-Traumatic Stress Disorder (PTSD) from narrative clinical documentation.
-* **Tech Stack:** Python, `medSpacy` (spaCy architecture), `pandas`, `matplotlib`
-* **Impact:** Implemented rule-based target matchers integrated with the ConText heuristic algorithm to isolate and classify granular PTSD symptom criteria, successfully decoupling active clinical assertions from complex contextual negations to generate machine-ready tabular datasets.
+**Objective:** Transform unstructured clinical notes into structured PTSD symptom data suitable for statistical analysis and machine learning.
+**Research Methods**
+- Built a rule-based Natural Language Processing (NLP) pipeline to identify PTSD symptom documentation from narrative clinical records.
+- Applied medSpaCy and ConText algorithms to distinguish confirmed symptoms from negated, historical, or hypothetical clinical statements.
+- Generated research-ready datasets for downstream predictive modeling and clinical outcome analyses.
+**Stack**  
+Python • medSpaCy • spaCy • pandas • Matplotlib
 
 ### [3. Longitudinal EHR Survival Analysis](https://github.com/mjbiomind/EHR-Survival-PTSD)
-A time-to-event statistical framework engineered to model clinical trajectories and time-to-diagnosis of PTSD from longitudinal Electronic Health Records (EHR).
-* **Tech Stack:** Python, `lifelines` (Kaplan-Meier architecture), `pandas`, `matplotlib`
-* **Impact:** Formulated a non-parametric Kaplan-Meier estimation pipeline explicitly configured to account for right-censoring vectors (loss to follow-up/administrative study termination), successfully charting stratified survival curves that isolate clinical time-to-event variances across different social risk matrix cohorts.
+**Objective:** Model time-to-diagnosis and clinical progression of PTSD using longitudinal electronic health record (EHR) data.
+**Research Methods**
+- Developed Kaplan–Meier survival analyses to estimate time-to-event outcomes.
+- Accounted for right-censored observations resulting from loss to follow-up and administrative study completion.
+- Compared survival trajectories across demographic and social risk groups to identify differences in clinical progression.
+**Stack**  
+Python • lifelines • pandas • Matplotlib
+
 
 ### [4. Synthea-to-OMOP CDM ETL Data Pipeline](https://github.com/mjbiomind/Synthea-OMOP-ETL)
-A robust clinical data engineering pipeline designed to ingest, restructure, and semantically normalize synthetic EHR registries (Synthea specification) into standardized relational tables compliant with the OHDSI OMOP Common Data Model v6.0.
-* **Tech Stack:** Python, `pandas` layout architectures, Relational Data Mapping Schema
-* **Impact:** Engineered automated data mapping routines that programmatically transform transactional source tables into unified target structures, executing precise schema migrations for the `PERSON` table and mapping complex condition registries (ICD-10-CM and native SNOMED text codes) to standardized global SNOMED-CT identifiers.
 
-
+**Objective:** Standardize synthetic electronic health records into the OMOP Common Data Model (OMOP CDM) to support reproducible clinical research.
+**Research Methods**
+- Developed Extract, Transform, Load (ETL) workflows to convert Synthea-generated electronic health record data into the OMOP Common Data Model Version 6.0.
+- Mapped patient demographics and clinical conditions to standardized vocabularies, including SNOMED CT.
+- Created reproducible data transformation pipelines that improve interoperability across observational health research databases.
+**Stack**  
+Python • pandas • Relational Databases • OMOP CDM • SNOMED CT
 
 > *"Using data to understand people, using science to increase happiness, and using knowledge to build a life of lasting impact." -MJBIOMIND*
