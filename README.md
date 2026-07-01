@@ -38,7 +38,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 - Evaluated associations between psychosocial stressors and inflammatory biomarkers while accounting for demographic and clinical confounders.
 - Produced reproducible statistical analyses using nationally representative NHANES survey data.
 
-**Impact:**
+**Impact**
 - Isolated specific statistical interaction parameters showing non-linear biological multiplier effects of environmental stress within vulnerable sub-cohorts.
 - Replicated robust CDC/NHANES survey designs locally using automated weighting workflows to control for non-random sampling bias.
 - Generated publication-ready causal regression visualizations that translate complex multi-variable confounder tables into accessible research insights.
@@ -57,7 +57,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 - Applied medSpaCy and ConText algorithms to distinguish confirmed symptoms from negated, historical, or hypothetical clinical statements.
 - Generated research-ready datasets for downstream predictive modeling and clinical outcome analyses.
 
-**Impact:**
+**Impact**
 - Unlocked critical clinical phenotypes buried deep within unstructured textual narratives that standard ICD-10 diagnostic billing codes completely miss.
 - Eliminated common text-mining false positives by contextually filtering out negated statements and familial history records.
 - Maintained strict operational compliance with data protection standards by engineering a local-first pipeline running entirely on synthetic, de-identified narratives.
@@ -77,7 +77,7 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 - Accounted for right-censored observations resulting from loss to follow-up and administrative study completion.
 - Compared survival trajectories across demographic and social risk groups to identify differences in clinical progression.
 
-**Impact:**
+**Impact**
 - Preserved statistical power in longitudinal data by extracting clinical insights from historical patient tracking spans rather than dropping incomplete records.
 - Standardized time-to-event methodologies across disparate tracking windows to account mathematically for informative patient dropouts.
 - Visualized clear timeline disparities between vulnerable and reference group risk matrices via non-parametric survival probability functions.
