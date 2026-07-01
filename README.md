@@ -3,14 +3,14 @@
 # Mary Jacobs
 ### Biostatistics & Health Informatics | Clinical Data Science | AI for Mental Health
 
-Experienced clinical researcher and data analyst specializing in biostatistics, clinical trial data pipelines, and predictive modeling. Bridging the intersection of advanced medical statistics (Stanford) and multi-site clinical trial operations (UCSF) to build reproducible data architectures that disentangle the multi-system biological pathways of PTSD and depression.
+Bridging the intersection of medical statistics (Stanford) and clinical trial operations (UCSF) to build reproducible data architectures that disentangle the entangling biological pathways of PTSD and depression.
 
 [LinkedIn](https://www.linkedin.com/in/mjbiomind/)
 
 ---
 
 ## 🔬 Scientific Core & Thesis
-My long-term research objective is to shift the paradigm of PTSD from a static psychiatric diagnosis to a dynamic, entangled system. I develop reproducible statistical pipelines to isolate, model, and measure interacting biological, behavioral, and socio-environmental pathways.
+My long-term research objective is to shift the paradigm of complex psychiatric conditions from static diagnosis codes to dynamic, entangled clinical systems. I engineer reproducible, production-grade frameworks to isolate, harmonize, and measure interacting biological, narrative, and socio-environmental pathways across disparate electronic health record (EHR) matrices.
 
 
 ---
