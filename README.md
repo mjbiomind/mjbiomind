@@ -32,6 +32,12 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 - **Tech Stack:** Python, `statsmodels`, `seaborn`, `pandas`
 - **Impact:** Formulated a clean Weighted Least Squares marginal structural model verifying the distinct, non-linear biological multiplier effect of stress within minoritized Hispanic cohorts.
 
+### 📝 [Clinical NLP Extraction Pipeline](https://github.com/mjbiomind/clinical-nlp-ptsd)
+An automated Information Extraction (IE) framework engineered to extract unstructured phenotypic indicators of Post-Traumatic Stress Disorder (PTSD) from narrative clinical documentation.
+* **Tech Stack:** Python, `medSpacy` (spaCy architecture), `pandas`, `matplotlib`
+* **Impact:** Implemented rule-based target matchers integrated with the ConText heuristic algorithm to isolate and classify granular PTSD symptom criteria, successfully decoupling active clinical assertions from complex contextual negations to generate machine-ready tabular datasets.
+
+
 ### 2. Neuroimaging Preprocessing & Volumetric Feature Extraction
 *Automated reproducible structural MRI preprocessing pipelines for computational psychiatry workflows.*
 - **Dataset:** OpenNeuro / Private Institutional Repositories
