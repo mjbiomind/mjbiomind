@@ -1,7 +1,7 @@
 <img src="BANNER_IMAGE.png" alt="Mary Jacobs Banner" width="100%" />
 
 # Mary Jacobs
-### Biostatistics |  Health Data Science | Clinical Data Science | AI for Mental Health
+### Biostatistics & Health Informatics | Clinical Data Science | AI for Mental Health
 
 Experienced clinical researcher and data analyst specializing in biostatistics, clinical trial data pipelines, and predictive modeling. Bridging the intersection of advanced medical statistics (Stanford) and multi-site clinical trial operations (UCSF) to build reproducible data architectures that disentangle the multi-system biological pathways of PTSD and depression.
 
