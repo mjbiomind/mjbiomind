@@ -43,21 +43,4 @@ A time-to-event statistical framework engineered to model clinical trajectories 
 * **Impact:** Formulated a non-parametric Kaplan-Meier estimation pipeline explicitly configured to account for right-censoring vectors (loss to follow-up/administrative study termination), successfully charting stratified survival curves that isolate clinical time-to-event variances across different social risk matrix cohorts.
 
 
-
-### 2. Neuroimaging Preprocessing & Volumetric Feature Extraction
-*Automated reproducible structural MRI preprocessing pipelines for computational psychiatry workflows.*
-- **Dataset:** OpenNeuro / Private Institutional Repositories
-- **Methodology:** Voxel-based morphometry (VBM), tissue segmentation, spatial normalization using SPM12/CAT12 environments.
-- **Key Output:** Clean, optimized MATLAB/Python wrappers that standardize structural brain data formatting for downstream machine learning applications.
-- **[View Repository ➔](https://github.com)**
-
-### 3. Digital Phenotyping: Longitudinal Behavioral Modeling
-*Predictive time-series modeling of depressive symptom trajectories using passive wearable device telemetry.*
-- **Dataset:** Synthetic Biobank / Multi-modal wearable framework
-- **Methodology:** Survival analysis, longitudinal mixed-effects models, Explainable AI (SHAP values).
-- **Key Output:** Deconstructed high-dimensional behavioral signals into actionable, high-fidelity clinical intervention windows.
-- **[View Repository ➔](https://github.com)**
-
----
-
 > *"Using data to understand people, using science to increase happiness, and using knowledge to build a life of lasting impact." -MJBIOMIND*
