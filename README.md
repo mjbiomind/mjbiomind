@@ -37,6 +37,12 @@ An automated Information Extraction (IE) framework engineered to extract unstruc
 * **Tech Stack:** Python, `medSpacy` (spaCy architecture), `pandas`, `matplotlib`
 * **Impact:** Implemented rule-based target matchers integrated with the ConText heuristic algorithm to isolate and classify granular PTSD symptom criteria, successfully decoupling active clinical assertions from complex contextual negations to generate machine-ready tabular datasets.
 
+### 📈 [Longitudinal EHR Survival Analysis](https://github.com/mjbiomind/EHR-Survival-PTSD)
+A time-to-event statistical framework engineered to model clinical trajectories and time-to-diagnosis of PTSD from longitudinal Electronic Health Records (EHR).
+* **Tech Stack:** Python, `lifelines` (Kaplan-Meier architecture), `pandas`, `matplotlib`
+* **Impact:** Formulated a non-parametric Kaplan-Meier estimation pipeline explicitly configured to account for right-censoring vectors (loss to follow-up/administrative study termination), successfully charting stratified survival curves that isolate clinical time-to-event variances across different social risk matrix cohorts.
+
+
 
 ### 2. Neuroimaging Preprocessing & Volumetric Feature Extraction
 *Automated reproducible structural MRI preprocessing pipelines for computational psychiatry workflows.*
