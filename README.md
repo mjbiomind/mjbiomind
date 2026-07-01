@@ -30,17 +30,20 @@ My long-term research objective is to shift the paradigm of PTSD from a static p
 ### 🩺[1. NHANES Causal PTSD Pipeline](https://github.com/mjbiomind/NHANES-Causal-PTSD)
 
 **Objective:** Examine the relationship between chronic stress exposure, inflammation, and PTSD-related outcomes using nationally representative health data.
-**Skills**
+
+**Skills**causal inference and complex survey biostatistics
+
 **Research Methods**
 - Designed causal inference workflows using inverse probability weighting (IPW) and weighted regression models.
 - Evaluated associations between psychosocial stressors and inflammatory biomarkers while accounting for demographic and clinical confounders.
 - Produced reproducible statistical analyses using nationally representative NHANES survey data.
 
-**Tech stack**  `Python` • `pandas` • `NumPy` • `statsmodels` • `Matplotlib`
 **Impact:**
 - Isolated specific statistical interaction parameters showing non-linear biological multiplier effects of environmental stress within vulnerable sub-cohorts.
 - Replicated robust CDC/NHANES survey designs locally using automated weighting workflows to control for non-random sampling bias.
 - Generated publication-ready causal regression visualizations that translate complex multi-variable confounder tables into accessible research insights.
+
+**Tech stack**  `Python` • `pandas` • `NumPy` • `statsmodels` • `Matplotlib`
 
 --
 
