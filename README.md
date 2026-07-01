@@ -38,20 +38,23 @@ Python • pandas • NumPy • statsmodels • Matplotlib
 
 ### [2. Clinical NLP Extraction Pipeline](https://github.com/mjbiomind/clinical-nlp-ptsd)
 **Objective:** Transform unstructured clinical notes into structured PTSD symptom data suitable for statistical analysis and machine learning.
+
 **Research Methods**
 - Built a rule-based Natural Language Processing (NLP) pipeline to identify PTSD symptom documentation from narrative clinical records.
 - Applied medSpaCy and ConText algorithms to distinguish confirmed symptoms from negated, historical, or hypothetical clinical statements.
 - Generated research-ready datasets for downstream predictive modeling and clinical outcome analyses.
 
 **Stack**  
-Python • medSpaCy • spaCy • pandas • Matplotlib
+`Python` • `medSpaCy` • `spaCy` • `pandas` • `Matplotlib`
 
 ### [3. Longitudinal EHR Survival Analysis](https://github.com/mjbiomind/EHR-Survival-PTSD)
 **Objective:** Model time-to-diagnosis and clinical progression of PTSD using longitudinal electronic health record (EHR) data.
+
 **Research Methods**
 - Developed Kaplan–Meier survival analyses to estimate time-to-event outcomes.
 - Accounted for right-censored observations resulting from loss to follow-up and administrative study completion.
 - Compared survival trajectories across demographic and social risk groups to identify differences in clinical progression.
+
 **Stack**  
 Python • lifelines • pandas • Matplotlib
 
@@ -59,10 +62,12 @@ Python • lifelines • pandas • Matplotlib
 ### [4. Synthea-to-OMOP CDM ETL Data Pipeline](https://github.com/mjbiomind/Synthea-OMOP-ETL)
 
 **Objective:** Standardize synthetic electronic health records into the OMOP Common Data Model (OMOP CDM) to support reproducible clinical research.
+
 **Research Methods**
 - Developed Extract, Transform, Load (ETL) workflows to convert Synthea-generated electronic health record data into the OMOP Common Data Model Version 6.0.
 - Mapped patient demographics and clinical conditions to standardized vocabularies, including SNOMED CT.
 - Created reproducible data transformation pipelines that improve interoperability across observational health research databases.
+  
 **Stack**  
 Python • pandas • Relational Databases • OMOP CDM • SNOMED CT
 
